@@ -3,4 +3,4 @@ This is a project aimed to study a course of Mobile Application Development to d
 
 _Preview of developed screens_
 
-![printscreens_preview.PNG](https://github.com/ohusiev/mobile_app/blob/8a4f5e20b5d98b7bd8dd160e4d8acd713135cea5/img/printscreens_preview.PNG)
+![printscreens_preview.PNG](https://github.com/ohusiev/restaurant_order_mgmt_app/blob/89ac96b7b8a50cd2a7316fa8b44309df0bd8270a/img/printscreens_preview.PNG)
