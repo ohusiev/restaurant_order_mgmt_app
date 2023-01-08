@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MADClassProj</string>
+    <string name="artist">Виконавець</string>
+    <string name="Send">Надіслати</string>
+    <string name="entre">Введіть ел. адресу</string>
+    <string name="invit_text">Введіль email для доступо до серверу</string>
+    <string name="enterTocken">Введіть ТОКЕН</string>
+    <string name="title">Назва</string>
+    <string name="price">Ціна</string>
+    <string name="search">Пошук</string>
+    <string name="amount">Сума</string>
+    <string name="num">№</string>
+</resources>

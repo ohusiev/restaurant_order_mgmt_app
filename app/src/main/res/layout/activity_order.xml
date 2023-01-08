@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OrderActivity">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/order_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="524dp"
+        android:layout_marginTop="80dp"
+        android:scrollbars="vertical" />
+
+    <TextView
+        android:id="@+id/tableNum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="20dp"
+        android:textColor="#000000"
+        android:textSize="35sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/total"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="165dp"
+        android:layout_marginTop="25dp"
+        android:text="0.0"
+        android:textColor="#4CAF50"
+        android:textSize="30sp" />
+
+    <ImageButton
+        android:id="@+id/btn_send"
+        android:layout_width="73dp"
+        android:layout_height="65dp"
+        android:layout_marginStart="285dp"
+        android:layout_marginTop="13dp"
+        android:layout_marginEnd="10dp"
+        app:srcCompat="@android:drawable/ic_menu_send" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="250dp"
+        android:layout_marginTop="25dp"
+        android:text="€"
+        android:textColor="#4CAF50"
+        android:textSize="30dp" />
+
+</RelativeLayout>

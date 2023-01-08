@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MADClassProj</string>
+    <string name="Send">Send</string>
+    <string name="entre">Enter your email</string>
+    <string name="invit_text">Enter your email to access the server</string>
+    <string name="menuOption1">JUKEBOX</string>
+    <string name="menuOption2">MENU OPTION 2</string>
+    <string name="menuOption3">MENU OPTION 3</string>
+    <string name="enterTocken">Enter your TOCKEN</string>
+    <string name="artist">Artist</string>
+    <string name="title">Title</string>
+    <string name="url">URL</string>
+    <string name="btn_coffeeshop">COFFEE SHOP APP</string>
+    <string name="price">Price</string>
+    <string name="search">Search</string>
+    <string name="id">id</string>
+    <string name="amount">Amount</string>
+    <string name="num">#</string>
+
+</resources>
