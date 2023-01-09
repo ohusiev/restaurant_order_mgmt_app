@@ -1,5 +1,5 @@
 ## Intro
-This is a project aimed to study a course of Mobile Application Development to develop an application and functionality list for role of a waiter/waitress in a coffee shop.
+This is a project aimed to study a course of Mobile Application Development to develop an application and functionality for role of a waiter/waitress in a coffee shop.
 
 _Preview of developed screens_
 
